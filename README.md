@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/joewalker/gcli.png)](http://travis-ci.org/joewalker/gcli)
 
 GCLI - Graphic Command Line
 ===========================
